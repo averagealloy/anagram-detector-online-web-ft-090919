@@ -2,4 +2,5 @@
 attr_accessor :word
 
 def initalize(word)
-  @world = 
+  @world = word
+  
