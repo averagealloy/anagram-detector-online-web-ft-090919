@@ -3,4 +3,6 @@ attr_accessor :word
 
 def initalize(word)
   @world = word
-end 
+end
+
+def 
