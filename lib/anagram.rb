@@ -5,4 +5,4 @@ def initalize(word)
   @world = word
 end
 
-def match
+def match(arra)
