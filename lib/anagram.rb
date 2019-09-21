@@ -2,3 +2,4 @@
 attr_accessor :word
 
 def initalize(word)
+  
