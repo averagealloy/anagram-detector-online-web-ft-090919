@@ -6,4 +6,4 @@ def initalize(word)
 end
 
 def match(array_of_words)
-  array_of_words.select {|element| (@word.split("").sort) }
+  array_of_words.select {|element| (@word.split("").sort)) }
