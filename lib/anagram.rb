@@ -1,2 +1,2 @@
 # Your code goes here!
-attr_accessor :wo
+attr_accessor :word
