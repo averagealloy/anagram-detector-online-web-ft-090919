@@ -1,4 +1,4 @@
 # Your code goes here!
 attr_accessor :word
 
-def initalize(wor)
+def initalize(word)
